@@ -18,5 +18,5 @@ Follow the below steps to run this project:
 
 ## Demo 🎥
 
-Deployed Link: [Meme Generator](https://pages.github.com/)
+Deployed Link: [Meme Generator](https://meme-generator-app-react.vercel.app/)
 
